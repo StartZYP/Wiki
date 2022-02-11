@@ -7,9 +7,8 @@ coverY: 0
 
 # 龙之旅行
 
-|         |                        |
-| :-----: | :--------------------: |
 | 适用服务端核心 |        1.12.2全核心       |
+| :-----: | :--------------------: |
 |   前置插件  | DragonCore，ProtocolLib |
 |   可选前置  |     PlaceholderAPI     |
 
@@ -27,13 +26,23 @@ coverY: 0
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 ![](<../.gitbook/assets/image (2).png>)
 
 ![](<../.gitbook/assets/image (1).png>)
 
-## 3.使用说明
+## 3.插件命令
+
+```
+/dragontravel|dtr add [自定义路径名] - 添加一个路径的点位,没有则创建一个
+/dragontravel|dtr remove [自定义路径名] - 移除上一个坐标。
+/dragontravel|dtr list - 查看所有路径名。
+/dragontravel|dtr run [自定义路径名] [模型名称] [玩家] - 让玩家骑上旅行器，按照线路旅行
+/dragontravel|dtr run [自定义路径名] [模型名称] [玩家] [启用龙导航] - 运行一个旅行器并绑定导航(此命令等白龙)
+```
+
+## 4.使用说明
 
 打开插件放进plugin中 配置龙核心实体
 
@@ -49,7 +58,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (3).png>)
 
-## 4.配置展示
+## 5.配置展示
 
 ```
 #####################

@@ -22,7 +22,7 @@
 
 ### 1.展示图片
 
-{% embed url="https://player.bilibili.com/player.html?aid=56850347&cid=99299213&page=1" %}
+{% file src="../../.gitbook/assets/QQ录屏20220211211551.mp4" %}
 
 ### 3.使用说明
 

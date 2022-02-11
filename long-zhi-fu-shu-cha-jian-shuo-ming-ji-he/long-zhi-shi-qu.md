@@ -34,7 +34,7 @@ coverY: 0
 ## 3.插件命令
 
 ```
-/PickMsg reload 重载插件
+/DragonPickMsg | dpm reload 重载插件
 ```
 
 ## 4.使用说明

@@ -4,7 +4,7 @@
 
 ## 龙之附属插件说明集合
 
-* [1.龙之技能栏](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/1.-long-zhi-ji-neng-lan.md)
+* [龙之技能栏](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-ji-neng-lan.md)
 * [龙之药水](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-yao-shui.md)
 * [龙之七日福利](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-qi-ri-fu-li.md)
 * [龙之椅子系统](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-yi-zi-xi-tong.md)

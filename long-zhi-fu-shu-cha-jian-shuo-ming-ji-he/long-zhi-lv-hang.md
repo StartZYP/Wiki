@@ -28,9 +28,11 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (8).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
+
+![](../.gitbook/assets/image.png)
 
 ## 3.插件命令
 
@@ -46,7 +48,7 @@ coverY: 0
 
 打开插件放进plugin中 配置龙核心实体
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 上面放客户端下面放服务端
 
@@ -55,6 +57,10 @@ coverY: 0
 按照命令绘制路线，并运行路线
 
 命令如图所示
+
+![](<../.gitbook/assets/image (3) (1).png>)
+
+目录总览 路径存储目录与配置文件
 
 ![](<../.gitbook/assets/image (3).png>)
 

@@ -24,7 +24,7 @@ description: 进服弹出的公告插件，辅助展示服务器更新内容与�
 
 ![](<../.gitbook/assets/image (9).png>)
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 ![](../.gitbook/assets/image.png)
 
@@ -47,7 +47,7 @@ description: 进服弹出的公告插件，辅助展示服务器更新内容与�
 
 2.在配置项中填写龙核的语法进行触发你需要的事件，例如执行命令，传送等。
 
-3.配置你的图床和模式 delay:为-1则直接命令打开进服公告
+3.配置你的图床和模式 delay:为-1 则不触发n秒后弹出 进服公告，自己用命令配合打开
 
 
 

@@ -28,9 +28,9 @@ coverY: 0
 
 ## 2.图片展示
 
-![](<../.gitbook/assets/image (7) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
 
 ## 3.插件命令
 
@@ -43,7 +43,7 @@ coverY: 0
 
 
 
-![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1) (1).png>)
 
 1.Model将此文件丢到客户端文件夹内
 

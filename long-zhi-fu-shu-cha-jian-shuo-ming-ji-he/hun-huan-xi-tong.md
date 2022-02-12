@@ -32,7 +32,7 @@ description: 斗罗大中必不可少的模块之一魂环系统,包含强大的
 
 ![](<../.gitbook/assets/image (6).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ## 3.插件指令
 

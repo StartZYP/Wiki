@@ -27,7 +27,7 @@ coverY: 0
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 ![](<../.gitbook/assets/image (5).png>)
 

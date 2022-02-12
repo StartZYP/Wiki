@@ -30,9 +30,9 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (2) (1) (1).png>)
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 ## 3.插件命令
 
@@ -48,7 +48,7 @@ coverY: 0
 
 打开插件放进plugin中 配置龙核心实体
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 上面放客户端下面放服务端
 

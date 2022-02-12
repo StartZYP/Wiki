@@ -32,7 +32,7 @@ description: 头顶称号系统，支持槽位与Gui双模式配置，ap与sx支
 
 ![](<../.gitbook/assets/image (7).png>)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ## 3.插件命令
 

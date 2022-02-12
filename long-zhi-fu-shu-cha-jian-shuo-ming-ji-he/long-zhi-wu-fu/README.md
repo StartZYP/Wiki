@@ -27,7 +27,7 @@ description: 迎新春集五福活动插件，也可以作为卡牌集合插件�
 
 ## 2.插件展示
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 ![](<../../.gitbook/assets/image (10).png>)
 

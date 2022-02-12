@@ -28,9 +28,9 @@ description: 头顶称号系统，支持槽位与Gui双模式配置，ap与sx支
 
 ![](<../.gitbook/assets/image (2) (1) (1).png>)
 
-![](<../.gitbook/assets/image (8) (1) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (9) (1).png>)
 

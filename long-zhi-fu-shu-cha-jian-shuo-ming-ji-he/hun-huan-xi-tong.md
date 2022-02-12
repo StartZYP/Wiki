@@ -43,7 +43,7 @@ description: 斗罗大中必不可少的模块之一魂环系统,包含强大的
 
 ## 4.使用说明
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 1.拿到插件后放进plugin中自动生成配置项，填写激活码。确认验证成功后。
 

@@ -1,5 +1,8 @@
 ---
 description: 进服弹出的公告插件，辅助展示服务器更新内容与活动提示。
+cover: >-
+  ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
+coverY: 0
 ---
 
 # 进服公告

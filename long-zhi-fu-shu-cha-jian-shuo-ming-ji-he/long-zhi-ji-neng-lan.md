@@ -35,6 +35,15 @@ description: Rpg服务器必备技能神器，此插件为skillapi附属可视�
 
 ## 3.插件指令
 
+```
+/dragonSkillview | dsv <界面名> 打开龙技界面 需要权限：dragonskillview.open.<界面名>
+/dragonSkillview | dsv reload 重载界面
+```
+
 ## 4.使用说明
+
+点击此处看说明
+
+{% embed url="http://p.ipedg.com/2021/12/16/longhe-longzhijinenglan-shiyongshuoming" %}
 
 ## 5.配置项

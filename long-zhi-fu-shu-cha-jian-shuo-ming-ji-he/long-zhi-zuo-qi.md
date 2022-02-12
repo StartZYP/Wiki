@@ -1,3 +1,9 @@
+---
+cover: >-
+  ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
+coverY: 0
+---
+
 # 龙之坐骑
 
 ### 1.插件介绍 <a href="#1-cha-jian-jie-shao" id="1-cha-jian-jie-shao"></a>

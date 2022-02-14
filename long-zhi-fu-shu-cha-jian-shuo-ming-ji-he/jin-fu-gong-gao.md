@@ -25,7 +25,7 @@ coverY: 0
 
 ![](../.gitbook/assets/全新公告.gif)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ![](<../.gitbook/assets/image (5) (1).png>)
 

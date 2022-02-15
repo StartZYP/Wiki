@@ -2,6 +2,7 @@
 cover: >-
   ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
 coverY: 0
+description: 服务器必备喇叭插件，类似于冒险岛的喇叭系统，可以显示场景喇叭各种~
 ---
 
 # 龙之喇叭

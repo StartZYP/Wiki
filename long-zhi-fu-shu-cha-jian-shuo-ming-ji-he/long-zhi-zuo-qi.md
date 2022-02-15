@@ -7,6 +7,12 @@ description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支�
 
 # 龙之坐骑
 
+|         |                       |
+| :-----: | :-------------------: |
+| 适用服务端核心 |       1.12.2全核心       |
+|   前置插件  | DragonCore，Protocolib |
+|   可选插件  |           无           |
+
 ## 1.插件介绍 <a href="#1-cha-jian-jie-shao" id="1-cha-jian-jie-shao"></a>
 
 1.支持槽位模式与Gui模式。

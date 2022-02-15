@@ -7,7 +7,7 @@ description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支�
 
 # 龙之坐骑
 
-### 1.插件介绍 <a href="#1-cha-jian-jie-shao" id="1-cha-jian-jie-shao"></a>
+## 1.插件介绍 <a href="#1-cha-jian-jie-shao" id="1-cha-jian-jie-shao"></a>
 
 1.支持槽位模式与Gui模式。
 
@@ -19,11 +19,13 @@ description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支�
 
 5.支持世界限制，与wg领地限制。
 
-### 2.图片展示 <a href="#2-tu-pian-zhan-shi" id="2-tu-pian-zhan-shi"></a>
+## 2.使用说明 <a href="#2-tu-pian-zhan-shi" id="2-tu-pian-zhan-shi"></a>
 
+![](<../.gitbook/assets/image (7).png>)
 
+![](<../.gitbook/assets/image (2).png>)
 
-### 3.命令全解 <a href="#3-ming-ling-quan-jie" id="3-ming-ling-quan-jie"></a>
+## 3.插件命令 <a href="#3-ming-ling-quan-jie" id="3-ming-ling-quan-jie"></a>
 
 ```
 /dragonride | dgr ride - 识别槽位进行骑乘动作
@@ -31,7 +33,25 @@ description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支�
 /dragonride | dgr reload - 重载配置项。
 ```
 
-### 3.配置使用说明 <a href="#3-pei-zhi-shi-yong-shuo-ming" id="3-pei-zhi-shi-yong-shuo-ming"></a>
+## 4.使用说明 <a href="#3-pei-zhi-shi-yong-shuo-ming" id="3-pei-zhi-shi-yong-shuo-ming"></a>
+
+![](<../.gitbook/assets/image (12).png>)
+
+1.拿到插件后材质丢进客户端，EntityModel复制到服务端龙核插件对应文件，插件丢进Plugin，重启服务器。
+
+2.填写激活码，后进游戏输入/dgr gui 打开坐骑界面
+
+3.坐骑列表是读取你的权限所生成的，OP默认有所有权限。<-这是GUI模式
+
+4.坐骑槽位模式是先判断 IsLore 是否读取lore&#x20;
+
+5.再读取槽位的 PapiName: "蜘蛛" #槽位中Lore中请包含这个，颜色用§ 龙核渲染实体也配这个
+
+6.最后槽位模式 输入/dgr ride 进行骑乘 可以设置成按键
+
+7.切换模式的时候注意，一定要重启服务器。reload无效。
+
+## 5.配置文件
 
 ```
 #=====================================================================

@@ -27,9 +27,9 @@ description: 迎新春集五福活动插件，也可以作为卡牌集合插件�
 
 ## 2.插件展示
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 ## 3.插件命令
 
@@ -42,7 +42,7 @@ description: 迎新春集五福活动插件，也可以作为卡牌集合插件�
 
 ## 4.使用说明
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 1.拿到插件丢进plugin目录中运行，生成配置项，填写激活码。看到验证成功后。
 

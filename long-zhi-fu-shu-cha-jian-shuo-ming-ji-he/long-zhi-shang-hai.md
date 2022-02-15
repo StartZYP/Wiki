@@ -27,6 +27,8 @@ coverY: 0
 
 &#x20;6.新增手持模式支持判定武器lore识别伤害打出颜色，支持默认伤害贴图。
 
+7.支持未命中贴图。
+
 ## 2.插件展示
 
 ![](<../.gitbook/assets/image (1) (1).png>)
@@ -87,8 +89,10 @@ range: 10.0
 # 单个伤害的宽度、高度
 width: 0.7
 height: 1.5
-# 伤害显示会自动加上一个实体高度
-showheight: -1.3
+# 未命中时候 图片高度
+MissHeight: 3.2
+# 未命中时候 图片宽度
+MissWidth: 6.5
 #是否跟随怪物实体
 IsFollowEntity: false
 #是否跟随观看玩家视角而旋转
@@ -109,7 +113,7 @@ Permission: "Attack."
 # 攻击数字基础相对定位
 Position:
   x: 0
-  y: 0.1
+  y: -1.0
   z: 0
   rotatex: 0 # 偏转度数
   rotatey: 0
@@ -151,30 +155,36 @@ Resources:
     UseanimationGroup: "action1"
     #此处为Gui中展示得贴图图片 槽位模式可以忽略
     Texture: "attack/link1/TextUre.png"
+    # 此处要未命中填写的Miss图片
+    MissTexture: "attack/link1/TextUre.png"
   link2:
     name: "粉爆炸黑伤"
     CritSizeAdd: 0.5
     description: "端午限定，先到先得，高中毕业生及时登录领取"
     UseanimationGroup: "action1"
     Texture: "attack/link2/TextUre.png"
+    MissTexture: "attack/link1/TextUre.png"
   link3:
     name: "花姑娘伤害"
     CritSizeAdd: 0.5
     description: "端午限定，先到先得，高中毕业生及时登录领取"
     UseanimationGroup: "action1"
     Texture: "attack/link3/TextUre.png"
+    MissTexture: "attack/link1/TextUre.png"
   link4:
     name: "黑眼熊伤害"
     CritSizeAdd: 0.5
     description: "端午限定，先到先得，高中毕业生及时登录领取"
     UseanimationGroup: "action2"
     Texture: "attack/link4/TextUre.png"
+    MissTexture: "attack/link1/TextUre.png"
   link5:
     name: "绿普黄爆"
     CritSizeAdd: 0.5
     description: "端午限定，先到先得，高中毕业生及时登录领取"
     UseanimationGroup: "action2"
     Texture: "attack/link5/TextUre.png"
+    MissTexture: "attack/link1/TextUre.png"
 ###################################
 ##########攻击动画组配置#############
 ###################################

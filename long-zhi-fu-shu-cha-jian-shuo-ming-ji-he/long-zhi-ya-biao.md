@@ -1,5 +1,5 @@
 ---
-description: 押镖类似于武侠中运送货物，跑环等任务配合插件。
+description: 押镖类似于武侠中
 cover: >-
   ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
 coverY: 0
@@ -7,17 +7,27 @@ coverY: 0
 
 # 龙之押镖
 
+## 1.插件介绍 <a href="#1.-cha-jian-jie-shao" id="1.-cha-jian-jie-shao"></a>
+
 |         |                |
 | :-----: | :------------: |
 | 适用服务端核心 |    1.12.2全核心   |
 |   前置插件  |   DragonCore   |
 |   可选前置  | PlaceholderAPI |
 
+## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
+
 ## 1.插件简介
+
+## 3.插件命令 <a href="#3.-cha-jian-ming-ling" id="3.-cha-jian-ming-ling"></a>
 
 1.简单的路径添加与路径选择模式。
 
+## 4.使用说明 <a href="#4.-shi-yong-shuo-ming" id="4.-shi-yong-shuo-ming"></a>
+
 2.可以配置多种矿车与多条路径。
+
+## 5.配置项 <a href="#5.-pei-zhi-xiang" id="5.-pei-zhi-xiang"></a>
 
 3.矿车支持多种属性 血量，速度，骑乘，被攻击停留时间，是否无敌，押镖人之间范围，是否能使用提速道具与减速道具。
 

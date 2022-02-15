@@ -8,12 +8,12 @@ description: 猪猪侠简单教你一分钟搭建数据库
 
 {% embed url="http://public.xp.cn/upgrades/PhpStudy2018.zip" %}
 
-![](<../.gitbook/assets/image (8) (1) (1).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 点一下启动,直到`MySql`变成绿色就行了,不行的话就百度排查各种原因\
 点击`MySql管理器`->`Mysql-Front`->`打开`
 
-``![](<../.gitbook/assets/image (11) (1) (1).png>)``
+``![](<../.gitbook/assets/image (11) (1).png>)``
 
 先选中1,再点击2
 

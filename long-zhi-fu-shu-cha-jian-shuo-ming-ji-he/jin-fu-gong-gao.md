@@ -60,7 +60,7 @@ coverY: 0
 Code: ""
 # 进服显示时间 单位秒 -1为不开启 使用命令打开界面
 delay: 4
-BannerTypeSel: 1 #你所选的进服Banner类型
+BannerTypeSel: 1 #你所选的进服Banner类型 写1或者2
 BannerType1:
   LoopTimer: "4000"
   BackGround: "https://tabclass.coding.net/p/minecraftproject/d/ResouceImg/git/raw/master/AutoBanner/%E5%85%AC%E5%91%8A.png"

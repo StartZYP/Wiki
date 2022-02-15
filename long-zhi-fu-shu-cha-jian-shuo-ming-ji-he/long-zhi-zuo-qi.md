@@ -2,25 +2,26 @@
 cover: >-
   ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
 coverY: 0
+description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支持海陆空三种飞行状态。
 ---
 
 # 龙之坐骑
 
 ### 1.插件介绍 <a href="#1-cha-jian-jie-shao" id="1-cha-jian-jie-shao"></a>
 
-1.支持槽位模式与Gui模式
+1.支持槽位模式与Gui模式。
 
-2.支持飞行与陆地模式
+2.支持飞行，陆地，水面，三款坐骑。
 
-3.支持双人与多人坐骑
+3.支持双人与单人坐骑。
 
-4.支持物品技能槽释放MM技能
+4.支持物品技能槽释放MM技能。
 
-5.支持世界限制
+5.支持世界限制，与wg领地限制。
 
 ### 2.图片展示 <a href="#2-tu-pian-zhan-shi" id="2-tu-pian-zhan-shi"></a>
 
-![](http://p.ipedg.com/wp-content/uploads/2022/02/image.png)![](http://p.ipedg.com/wp-content/uploads/2022/02/HDWA7O7EKU0PZOA-1024x693.png)![](http://p.ipedg.com/wp-content/uploads/2022/02/image-1-1024x625.png)![](http://p.ipedg.com/wp-content/uploads/2022/02/7\_85H09IJCZYIAI15-1024x594.png)![](http://p.ipedg.com/wp-content/uploads/2022/02/YER\_X7ZGKLDXMLB@U-1024x613.png)
+
 
 ### 3.命令全解 <a href="#3-ming-ling-quan-jie" id="3-ming-ling-quan-jie"></a>
 
@@ -73,50 +74,50 @@ RideEntity:
     PapiName: "蜘蛛" #槽位中Lore中请包含这个，颜色用§ 龙核渲染实体也配这个
     NoAttack: true #是否无敌模式
     MoveSeppd: 0.43
-    CanFly: false
-    FlipRideWorld: false # 是否翻转判断RideWorld 翻转就是不允许
+    Model: 1 # 1.陆地行走(码) 2.水上行驶(船) 3.天空飞翔(龙)
     Description: "§e§l【普通】穴居领主掉落率0.5%，配装技能\n §4魔丝毒液-钢刃之抓-千年之魂"
     Texture: "https://tabclass.coding.net/p/minecraftproject/d/ResouceImg/git/raw/master/DragonRide/img1.png"
+    FlipRideWorld: false # 是否翻转判断RideWorld 翻转就是不允许
     RideWorld: #允许骑乘世界列表
       - "world"
   ride2:
     PapiName: "凤凰"
     NoAttack: true
     MoveSeppd: 0.43
-    CanFly: true
-    FlipRideWorld: false # 是否翻转判断RideWorld 翻转就是不允许
+    Model: 3
     Description: "§3【稀有】九天凤凰-副本九天之上掉落率0.005%，配装技能\n §4欲火焚身-杀之爪-泯灭武装"
     Texture: "https://tabclass.coding.net/p/minecraftproject/d/ResouceImg/git/raw/master/DragonRide/img2.png"
-    RideWorld: #允许骑乘世界列表
+    FlipRideWorld: false
+    RideWorld:
       - "world"
   ride3:
     PapiName: "冰龙"
     NoAttack: true
     MoveSeppd: 0.43
-    CanFly: true
-    FlipRideWorld: false # 是否翻转判断RideWorld 翻转就是不允许
+    Model: 3
     Description: "§3【稀有】远古冰龙-寒冰洞穴掉落率0.1%，配装技能\n §4寒冰吐息-杀之爪-玄冰盾"
     Texture: "https://tabclass.coding.net/p/minecraftproject/d/ResouceImg/git/raw/master/DragonRide/img3.png"
-    RideWorld: #允许骑乘世界列表
+    FlipRideWorld: false
+    RideWorld:
       - "world"
   ride4:
-    PapiName: "白虎局镖车"
+    PapiName: "军舰"
     NoAttack: true
     MoveSeppd: 0.43
-    CanFly: true
-    FlipRideWorld: false # 是否翻转判断RideWorld 翻转就是不允许
+    Model: 2
     Description: "§3【稀有】货运押镖-押镖任务100次奖励，配装技能\n §4货物投递-加速-装载"
     Texture: "https://tabclass.coding.net/p/minecraftproject/d/ResouceImg/git/raw/master/DragonRide/img4.png"
-    RideWorld: #允许骑乘世界列表
+    FlipRideWorld: false
+    RideWorld:
       - "world"
   ride5:
     PapiName: "飞碟"
     NoAttack: true
     MoveSeppd: 0.43
-    CanFly: true
-    FlipRideWorld: false # 是否翻转判断RideWorld 翻转就是不允许
+    Model: 3
     Description: "§3【稀有】超时空穿越飞碟-掉落率10%，配装技能\n §4飞碟导弹-飞碟之刃-伪装"
     Texture: "https://tabclass.coding.net/p/minecraftproject/d/ResouceImg/git/raw/master/DragonRide/img4.png"
-    RideWorld: #允许骑乘世界列表
+    FlipRideWorld: false
+    RideWorld:
       - "world"
 ```

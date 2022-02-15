@@ -37,12 +37,12 @@ description: 服务器必备喇叭插件，类似于冒险岛的喇叭系统，�
 
 
 
-## 3.插件命令
 
-## 4.使用说明 <a href="#4.-shi-yong-shuo-ming" id="4.-shi-yong-shuo-ming"></a>
+
+
 
 ## 4.使用说明
 
-## 5.配置项 <a href="#5.-pei-zhi-xiang" id="5.-pei-zhi-xiang"></a>
+
 
 ## 5.配置项

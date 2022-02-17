@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🏁 插件总览](README.md)
-  * [一分钟秒搭数据库](cha-jian-zong-lan/yi-fen-zhong-miao-da-shu-ju-ku.md)
+* [🏁 龙之附属插件集合](README.md)
+  * [一分钟秒搭数据库](long-zhi-fu-shu-cha-jian-ji-he/yi-fen-zhong-miao-da-shu-ju-ku.md)
 
 ## 龙之附属插件说明集合
 

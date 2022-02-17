@@ -43,4 +43,4 @@ description: 我
 
 4.\[授权总览] 查询目前全网正在试用我们插件的人数，一个有趣的热力图（Ps,每分钟更新一次）。
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+5.\[我的授权] 私聊QQ410120288 查询授权 能显示遮住的部分，切记不要泄露给任何人。

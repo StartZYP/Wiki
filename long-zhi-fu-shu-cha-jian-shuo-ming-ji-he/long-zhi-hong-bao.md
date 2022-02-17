@@ -31,7 +31,23 @@ description: 过年发红包的趣味必不可少的趣味组件，支持物品�
 
 ## 3.插件命令
 
+```
+/dragonredpacket | drp pt - 发普通拼手气红包 权限:dragonredpacket.pt
+/dragonredpacket | drp kl &7- &c发送口令拼手气红包。 &6权限:dragonredpacket.kl
+/dragonredpacket | drp wd &7- &c发送口令拼手气红包。 &6权限:dragonredpacket.wd
+/dragonredpacket | drp reload &7- &c重载配置项。默认op使用
+```
+
 ## 4.使用说明
+
+权限列表
+
+```
+//玩家红包皮肤权限
+dragonredpacket.skin.皮肤节点 (此处配置项有讲)
+//玩家领取红包权限
+dragonredpacket.get
+```
 
 ## 5.配置项
 

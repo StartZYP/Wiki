@@ -25,3 +25,4 @@
 * [龙之药水](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-yao-shui.md)
 * [龙之椅子系统](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-yi-zi-xi-tong.md)
 * [龙之锻造](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-duan-zao.md)
+* [龙之分解](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-fen-jie.md)

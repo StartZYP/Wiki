@@ -6,7 +6,7 @@ coverY: 0
 
 # 龙之商店
 
-​TextText适用服务端核心1.12.2全核心前置插件DragonCore,ProtocolLib,PlayerPoint,Valut可选前置无
+
 
 ## 1.插件简介
 

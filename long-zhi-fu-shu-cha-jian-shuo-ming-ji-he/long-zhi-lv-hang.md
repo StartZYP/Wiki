@@ -66,6 +66,14 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
+<details>
+
+<summary>想要魔兽那种旅行？方便多个世界之间传送？你只需要在第一个旅行结束后，触发第二个旅行，即可连贯起来。</summary>
+
+
+
+</details>
+
 ## 5.配置展示
 
 ```

@@ -33,6 +33,14 @@ description: 我
 
 2.此授权码可以试用一切插件，尽情体验。
 
-## Q.
+## Q.群内机器人有什么命令？
+
+1.\[授权查询] 查询你当前拥有的授权和绑定的Ip
+
+2.\[解绑全部] 解绑所以插件,解绑IP后就可以换一台机器继续试用我们的插件了。
+
+3\. \[试用码] 体验所有插件两小时，一直获取一直爽。
+
+4.\[授权总览] 查询目前全网正在试用我们插件的人数，一个有趣的热力图（Ps,每分钟更新一次）。
 
 Welcome to the company wiki! Here you'll find everything you need to know about the company.

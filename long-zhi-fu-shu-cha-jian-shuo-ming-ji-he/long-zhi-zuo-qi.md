@@ -27,7 +27,7 @@ description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支�
 
 ## 2.使用说明 <a href="#2-tu-pian-zhan-shi" id="2-tu-pian-zhan-shi"></a>
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (2).png>)
 

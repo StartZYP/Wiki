@@ -28,7 +28,7 @@ coverY: 0
 
 ## 2.图片展示
 
-![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
 

@@ -31,7 +31,7 @@ description: 龙之商店适用于任何服务器商店，支持修改任意界�
 
 ![](<../.gitbook/assets/image (4).png>)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 ## 3.插件命令
 

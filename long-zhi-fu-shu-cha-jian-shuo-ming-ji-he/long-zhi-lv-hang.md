@@ -89,6 +89,7 @@ Code: "" #验证
 MaxSpeed: 0.4 #最大移动速度
 NoShifit: true #禁止在旅行中下旅行坐骑
 OfflineReturn: true  #玩家中途掉线直接传送到出发点 false则直接原地空中水中同样
+EndInvulnerable: 3 # 玩家旅行结束后是否给个几秒无敌，防止被其他玩家直接干掉 设置为0则不设置
 # 速度一定不要加太大了。否则会出现瞬移情况
 PermissionSpeed:
   "dragontravel.vip1": 0.05

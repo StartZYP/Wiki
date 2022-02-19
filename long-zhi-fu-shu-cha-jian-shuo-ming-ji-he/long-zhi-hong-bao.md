@@ -31,6 +31,16 @@ description: 过年发红包的趣味必不可少的趣味组件，支持物品�
 
 
 
+![](../.gitbook/assets/MC\~7UCBAA$7\[JOP$OU8\({F8.png)
+
+![](<../.gitbook/assets/CU%R84K@K\_FH9BJJSBG0QPM (1).png>)
+
+![](../.gitbook/assets/@P\(B6C%TXA{\`}7D$P\)CFY]K.png)
+
+![](../.gitbook/assets/XLLNUZU19JS0OM\)A{Q@07J7.png)
+
+![](../.gitbook/assets/1}DWE3GS8WB\(UJA%60\[\[\(7R.png)
+
 ## 3.插件命令
 
 ```

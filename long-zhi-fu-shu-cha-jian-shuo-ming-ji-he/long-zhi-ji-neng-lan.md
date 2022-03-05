@@ -25,13 +25,13 @@ description: Rpg服务器必备技能神器，此插件为skillapi附属可视�
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (8) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (7) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1).png>)
 
 ## 3.插件指令
 

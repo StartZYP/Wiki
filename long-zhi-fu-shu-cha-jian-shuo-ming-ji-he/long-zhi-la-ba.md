@@ -27,7 +27,7 @@ description: 服务器必备喇叭插件，类似于冒险岛的喇叭系统，�
 
 ![](<../.gitbook/assets/image (8).png>)
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ![](<../.gitbook/assets/image (11).png>)
 

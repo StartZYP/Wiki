@@ -41,7 +41,7 @@ description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支�
 
 ## 4.使用说明 <a href="#3-pei-zhi-shi-yong-shuo-ming" id="3-pei-zhi-shi-yong-shuo-ming"></a>
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 1.拿到插件后材质丢进客户端，EntityModel复制到服务端龙核插件对应文件，插件丢进Plugin，重启服务器。
 

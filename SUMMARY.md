@@ -7,6 +7,7 @@
 
 * [龙之技能栏](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-ji-neng-lan.md)
 * [龙之商店](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-shang-dian.md)
+* [龙之任务](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-ren-wu.md)
 * [龙之坐骑](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-zuo-qi.md)
 * [龙之旅行](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-lv-hang.md)
 * [龙之押镖](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-ya-biao.md)

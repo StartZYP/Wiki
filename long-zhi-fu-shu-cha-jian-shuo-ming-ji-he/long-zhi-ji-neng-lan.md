@@ -1,5 +1,7 @@
 ---
 description: Rpg服务器必备技能神器，此插件为skillapi附属可视化插件。
+cover: >-
+  ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
 coverY: 0
 ---
 
@@ -190,6 +192,12 @@ needItemName: "\&c\&l利刃环绕技能书" \[需要的物品name]
 同时给出了更多配置已经详细写在了插件配置
 
 ## 5.配置项
+
+{% hint style="info" %}
+Ps:给看不懂教程的蠢蛋使用，实在不行您就替换下面这个默认配置，照葫芦画瓢吧
+{% endhint %}
+
+{% file src="../.gitbook/assets/插件配置需求.zip" %}
 
 ![](<../.gitbook/assets/image (4).png>)
 

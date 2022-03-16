@@ -221,18 +221,27 @@ CodeConfig文件:
 
 &#x20;
 
-\=
+{% hint style="info" %}
+KeyConfig文件:
+
+此文件可以自定义插件技能释放快捷键
+
+\[同样使用的龙核键位监听]
+{% endhint %}
 
 &#x20;
 
+{% hint style="info" %}
 lang文件:
 
 插件的语言文件
 
 可更改插件提示信息
+{% endhint %}
 
 
 
+{% hint style="info" %}
 PluginConfig文件:
 
 本文件可更改插件数据储存方式
@@ -246,3 +255,4 @@ PluginConfig文件:
 SkillConfig文件:
 
 此文件配置你的skillapi技能项
+{% endhint %}

@@ -24,7 +24,7 @@ description: 适合类型服务器根据等级奖励来吸引玩家的战令系�
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 ## 3.插件命令
 

@@ -1,8 +1,8 @@
 ---
+description: 服务器必备喇叭插件，类似于冒险岛的喇叭系统，可以显示场景喇叭各种~
 cover: >-
   ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
 coverY: 0
-description: 服务器必备喇叭插件，类似于冒险岛的喇叭系统，可以显示场景喇叭各种~
 ---
 
 # 龙之喇叭
@@ -23,15 +23,15 @@ description: 服务器必备喇叭插件，类似于冒险岛的喇叭系统，�
 
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 ![](<../.gitbook/assets/image (8).png>)
 
 ![](<../.gitbook/assets/image (3) (1).png>)
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 ## 3.插件命令 <a href="#3.-cha-jian-ming-ling" id="3.-cha-jian-ming-ling"></a>
 

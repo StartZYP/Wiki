@@ -1,8 +1,8 @@
 ---
+description: 适用于服务器拉新专用的福利模块，让你的玩家想着你第二天的礼物~
 cover: >-
   ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
 coverY: 0
-description: 适用于服务器拉新专用的福利模块，让你的玩家想着你第二天的礼物~
 ---
 
 # 龙之七日福利
@@ -19,7 +19,7 @@ description: 适用于服务器拉新专用的福利模块，让你的玩家想�
 
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 ## 3.插件命令 <a href="#3.-cha-jian-ming-ling" id="3.-cha-jian-ming-ling"></a>
 

@@ -1,8 +1,8 @@
 ---
-coverY: 0
+description: 我
 cover: >-
   .gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
-description: 我
+coverY: 0
 ---
 
 # 🏁 龙之附属插件集合
@@ -33,7 +33,7 @@ description: 我
 
 2.此授权码可以试用一切插件，尽情体验。
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
 ## Q.群内机器人有什么命令？
 

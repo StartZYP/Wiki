@@ -1,8 +1,8 @@
 ---
+description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支持海陆空三种飞行状态。
 cover: >-
   ../.gitbook/assets/src=http___i0.hdslb.com_bfs_article_643cb3f8d166763b7f2ea894adeffe7b93301acb.jpg&refer=http___i0.hdslb.jpg
 coverY: 0
-description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支持海陆空三种飞行状态。
 ---
 
 # 龙之坐骑
@@ -27,7 +27,7 @@ description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支�
 
 ## 2.使用说明 <a href="#2-tu-pian-zhan-shi" id="2-tu-pian-zhan-shi"></a>
 
-![](<../.gitbook/assets/image (7) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (2).png>)
 
@@ -41,7 +41,7 @@ description: 游戏中常见的坐骑系统，RPG游戏必备模块之一。支�
 
 ## 4.使用说明 <a href="#3-pei-zhi-shi-yong-shuo-ming" id="3-pei-zhi-shi-yong-shuo-ming"></a>
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1).png>)
 
 1.拿到插件后材质丢进客户端，EntityModel复制到服务端龙核插件对应文件，插件丢进Plugin，重启服务器。
 

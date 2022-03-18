@@ -32,9 +32,9 @@ coverY: 0
 
 ![](../.gitbook/assets/3.gif)
 
-![](<../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
@@ -66,11 +66,11 @@ coverY: 0
 
 命令如图所示
 
-![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png>)
 
 目录总览 路径存储目录与配置文件
 
-![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)
 
 <details>
 

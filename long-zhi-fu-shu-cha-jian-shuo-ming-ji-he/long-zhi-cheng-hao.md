@@ -29,11 +29,11 @@ coverY: 0
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (9) (1) (1).png>)
 
@@ -48,7 +48,7 @@ coverY: 0
 
 #### 称号papi变量 当前配戴称号:%chenghao\_title%
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 1.拿到插件后选择你的属性版本和类型丢进服务端plugin，等待生成填写激活码 目录DragonChengHao
 

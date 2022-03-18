@@ -28,13 +28,13 @@ coverY: 0
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (8) (1) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (7) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (12) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
 ## 3.插件指令
 
@@ -47,7 +47,7 @@ coverY: 0
 
 #### 4.1 正确运行插件的方式
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 {% hint style="info" %}
 1.在售后群内下载最新版龙技能视图包+Skill基础技能\[必须]+MCCore技能依赖\[必须]
@@ -87,7 +87,7 @@ Ps:数据库不会配置的请看 首页教程
 \[\[com.zaxxer.hikari.HikariDataSource] DragonSkill-Connection-Pool - Start completed.]
 {% endhint %}
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 {% hint style="info" %}
 出现本信息说明数据库连接成功，若是失败请检查你的数据库密码，ID是否和插件配置内信息是否一致。
@@ -109,9 +109,9 @@ YmlDataPath: ""\[文件路径]
 在Skill文件内放入你写好的技能
 {% endhint %}
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 {% hint style="info" %}
 **2.**接着打开class文件
@@ -119,7 +119,7 @@ YmlDataPath: ""\[文件路径]
 在此文件放入你的职业
 {% endhint %}
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 ![](<../.gitbook/assets/image (11).png>)
 
@@ -131,11 +131,11 @@ YmlDataPath: ""\[文件路径]
 
 4.回到本插件配置文件找到\[SkillConfig]文件
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
 5.接着我们打开插件的Guis文件内
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 如果未出现本文件请先输入\[/dsv open defaultgui]加载出来
 
@@ -147,7 +147,7 @@ Type: "爆发"
 
 此项对应skillapi技能的Type
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 一定要保持一致，不然将会加载不出技能
 
@@ -155,19 +155,19 @@ Type: "爆发"
 
 7.接着打开我们的插件GUI界面\[/dsv open defaultgui]
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 现在就已经载入技能到了我们的GUI界面
 
 8.点击技能进行拖拽，放入到下方技能空列
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 这样技能就可以出现在对应的快捷键内
 
 9\. 到这里就可以正常使用你的skillapi技能了
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 #### 4.3 **如何配置学习技能消耗**
 
@@ -179,7 +179,7 @@ Type: "爆发"
 
 2\. 找到你要配置的技能
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 needItemName: "\&c\&l利刃环绕技能书" \[需要的物品name]
 
@@ -199,7 +199,7 @@ Ps:给看不懂教程的蠢蛋使用，实在不行您就替换下面这个默�
 
 {% file src="../.gitbook/assets/插件配置需求.zip" %}
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 {% hint style="info" %}
 Guis文件:

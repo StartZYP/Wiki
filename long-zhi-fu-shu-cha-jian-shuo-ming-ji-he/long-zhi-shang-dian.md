@@ -29,9 +29,9 @@ coverY: 0
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
-![](<../.gitbook/assets/image (7) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1).png>)
 
 ## 3.插件命令
 

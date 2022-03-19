@@ -27,7 +27,7 @@ coverY: 0
 
 ## 2.使用说明 <a href="#2-tu-pian-zhan-shi" id="2-tu-pian-zhan-shi"></a>
 
-![](<../.gitbook/assets/image (7) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (2) (1).png>)
 

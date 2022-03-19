@@ -41,11 +41,11 @@ coverY: 0
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (13) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (10) (1) (1).png>)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 ## 3.插件命令
 
@@ -58,7 +58,7 @@ coverY: 0
 
 ## 4.使用说明
 
-![](<../.gitbook/assets/image (8) (1) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 1.DrageonCore 模型放到客户端龙核目录。
 

@@ -28,7 +28,7 @@ description: RPG服务器必备神器，此插件为BQ提供玩家可视化界�
 
 ![](<../.gitbook/assets/image (12).png>)
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
 ![](<../.gitbook/assets/image (19).png>)
 
@@ -132,7 +132,7 @@ text: 啊对对对
 右键即可开启对话框
 {% endhint %}
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 {% hint style="info" %}
 1\. 对话框的配置文件在\[DragonQuestView>Cornv>default.yml]
@@ -142,7 +142,7 @@ text: 啊对对对
 注:需要有足够的龙核界面制作基础。食用前请先学习龙核制作
 {% endhint %}
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
 ## 4.搭配BQ任务的一些设置
 
@@ -150,7 +150,7 @@ text: 啊对对对
 
 配置文件\[QuestConfig.yml]
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 {% hint style="info" %}
 questType: "主线" #此节点用来给任务做出分类
@@ -166,15 +166,15 @@ questType: "主线" #此节点用来给任务做出分类
 
 **这里的\[主线]需要对应\[Guis>defaultgui.yml]配置文件的Type"主线"**
 
-****![](<../.gitbook/assets/image (24).png>)****
+****![](<../.gitbook/assets/image (24) (1).png>)****
 
-****![](<../.gitbook/assets/image (5).png>)****
+****![](<../.gitbook/assets/image (5) (1).png>)****
 
 **如果想要创建一个新的任务分类**
 
 我们需要打开插件的配置文件\[Guis>defaultgui.yml]文件
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 {% hint style="info" %}
 复制一份文件
@@ -186,7 +186,7 @@ questType: "主线" #此节点用来给任务做出分类
 
 **接着把\[QuestConfig.yml]文件内的配置和此界面对接**
 
-****![](<../.gitbook/assets/image (25).png>)****
+****![](<../.gitbook/assets/image (25) (1).png>)****
 
 这样新的分类就已经添加完毕了
 
@@ -212,9 +212,9 @@ identifier: ""\[任务名称]
 接到击杀僵尸任务后就会在GUI内显示任务信息
 {% endhint %}
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 ## 5.制作一个简单的打怪流程
 
@@ -398,7 +398,7 @@ text: 抱歉我得先走了。
 
 击杀完毕后返回NPC所在地，对话完成任务即可
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 ## 6.配置项
 

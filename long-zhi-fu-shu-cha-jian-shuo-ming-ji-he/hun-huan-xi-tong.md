@@ -31,9 +31,9 @@ coverY: 0
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
@@ -46,7 +46,7 @@ coverY: 0
 
 ## 4.使用说明
 
-![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png>)
 
 1.拿到插件后放进plugin中自动生成配置项，填写激活码。确认验证成功后。
 

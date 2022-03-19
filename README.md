@@ -32,7 +32,7 @@ coverY: 0
 
 2.此授权码可以试用一切插件，尽情体验。
 
-![](<.gitbook/assets/image (7) (1) (1).png>)
+![](<.gitbook/assets/image (7) (1) (1) (1).png>)
 
 ## Q.群内机器人有什么命令？
 

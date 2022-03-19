@@ -30,9 +30,9 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (8) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
@@ -87,7 +87,7 @@ Ps:数据库不会配置的请看 首页教程
 \[\[com.zaxxer.hikari.HikariDataSource] DragonSkill-Connection-Pool - Start completed.]
 {% endhint %}
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (13) (1) (1).png>)
 
 {% hint style="info" %}
 出现本信息说明数据库连接成功，若是失败请检查你的数据库密码，ID是否和插件配置内信息是否一致。
@@ -131,7 +131,7 @@ YmlDataPath: ""\[文件路径]
 
 4.回到本插件配置文件找到\[SkillConfig]文件
 
-![](<../.gitbook/assets/image (21) (1).png>)
+![](<../.gitbook/assets/image (21) (1) (1).png>)
 
 5.接着我们打开插件的Guis文件内
 
@@ -147,7 +147,7 @@ Type: "爆发"
 
 此项对应skillapi技能的Type
 
-![](<../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (14) (1) (1).png>)
 
 一定要保持一致，不然将会加载不出技能
 
@@ -155,13 +155,13 @@ Type: "爆发"
 
 7.接着打开我们的插件GUI界面\[/dsv open defaultgui]
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 现在就已经载入技能到了我们的GUI界面
 
 8.点击技能进行拖拽，放入到下方技能空列
 
-![](<../.gitbook/assets/image (22) (1).png>)
+![](<../.gitbook/assets/image (22) (1) (1).png>)
 
 这样技能就可以出现在对应的快捷键内
 
@@ -179,7 +179,7 @@ Type: "爆发"
 
 2\. 找到你要配置的技能
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (15) (1) (1).png>)
 
 needItemName: "\&c\&l利刃环绕技能书" \[需要的物品name]
 

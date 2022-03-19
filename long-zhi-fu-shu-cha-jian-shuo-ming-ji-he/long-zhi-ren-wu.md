@@ -188,7 +188,7 @@ questType: "主线" #此节点用来给任务做出分类
 
 **接着把\[QuestConfig.yml]文件内的配置和此界面对接**
 
-****![](<../.gitbook/assets/image (25) (1).png>)****
+****![](<../.gitbook/assets/image (25) (1) (1).png>)****
 
 这样新的分类就已经添加完毕了
 
@@ -388,7 +388,7 @@ text: 抱歉我得先走了。
 
 首先和 新手任务NPC对话接取任务
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 点击我能够做什么？
 

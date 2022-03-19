@@ -29,7 +29,7 @@ coverY: 0
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (7) (1) (1) (1) (1).png>)
 
@@ -97,7 +97,7 @@ coverY: 0
 
 **输入脚本名或输入none**
 
-****![](<../.gitbook/assets/image (26).png>)****
+****![](<../.gitbook/assets/image (26) (1).png>)****
 
 **buy为出售，即玩家花钱购买**
 
@@ -113,7 +113,7 @@ coverY: 0
 
 **找到DragonSystemShop\Goods里对应的yml文件，双击打开**
 
-****![](<../.gitbook/assets/image (25).png>)****
+****![](<../.gitbook/assets/image (25) (1).png>)****
 
 **找到isbuy这行，当他为true时，商品为出售，当他为false时，商品即为收购**
 

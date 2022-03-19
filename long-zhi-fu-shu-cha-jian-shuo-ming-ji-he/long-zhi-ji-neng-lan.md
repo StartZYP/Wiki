@@ -141,7 +141,7 @@ YmlDataPath: ""\[文件路径]
 
 打开本文件
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 Type: "爆发"
 
@@ -199,7 +199,7 @@ Ps:给看不懂教程的蠢蛋使用，实在不行您就替换下面这个默�
 
 {% file src="../.gitbook/assets/插件配置需求.zip" %}
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 {% hint style="info" %}
 Guis文件:

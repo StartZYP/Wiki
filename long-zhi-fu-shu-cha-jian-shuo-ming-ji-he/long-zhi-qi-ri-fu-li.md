@@ -19,7 +19,7 @@ coverY: 0
 
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10) (1) (1).png>)
 
 ## 3.插件命令 <a href="#3.-cha-jian-ming-ling" id="3.-cha-jian-ming-ling"></a>
 

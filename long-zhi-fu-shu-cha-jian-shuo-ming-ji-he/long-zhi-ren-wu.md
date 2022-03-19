@@ -404,6 +404,12 @@ text: 抱歉我得先走了。
 
 ![](<../.gitbook/assets/image (8) (1).png>)
 
+### 4.4 示例配置项下载
+
+实在不会请下载这一份配置项，照葫芦画瓢
+
+{% file src="../.gitbook/assets/龙之任务配置示例.zip" %}
+
 ## 6.配置项
 
 {% hint style="info" %}

@@ -6,7 +6,7 @@ description: 猪猪侠简单教你一分钟搭建数据库
 
 下载下方文件，解压安装好打开
 
-{% embed url="http://public.xp.cn/upgrades/PhpStudy2018.zip" %}
+{% file src="../.gitbook/assets/PHPStudy_setup.rar" %}
 
 ![](<../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)
 

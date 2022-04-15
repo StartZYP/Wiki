@@ -17,6 +17,8 @@ coverY: 0
 
 4.支持自定义贴图自由化制作，简洁方便。
 
+5.支持补签卡，售卖补签系统
+
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
 ![](<../.gitbook/assets/image (10) (1) (1).png>)
@@ -25,6 +27,7 @@ coverY: 0
 
 ```
 /sign open 打开界面
+/sign check [玩家id] 检查玩家签到情况
 /sign reload 重载插件
 ```
 
@@ -41,6 +44,8 @@ coverY: 0
 4.此插件需要安装数据库,并链接数据库才可以使用.
 
 5.查看日志无报错后，进服输入/sign open 进行签到
+
+6.设置补签卡 在游戏中手持要设置的补签卡 /lore name §f§l补签卡 即可 （切记颜色符号用§ 精准匹配）
 
 ## 5.配置项 <a href="#5.-pei-zhi-xiang" id="5.-pei-zhi-xiang"></a>
 

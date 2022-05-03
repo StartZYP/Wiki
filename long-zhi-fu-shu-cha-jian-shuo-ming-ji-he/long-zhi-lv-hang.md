@@ -32,11 +32,11 @@ coverY: 0
 
 ![](../.gitbook/assets/3.gif)
 
-![](<../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+<img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)
+<img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
 
 ![](<../.gitbook/assets/image (1).png>)
 

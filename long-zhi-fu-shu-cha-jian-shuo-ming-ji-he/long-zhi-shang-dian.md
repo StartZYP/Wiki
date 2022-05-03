@@ -79,11 +79,11 @@ coverY: 0
 
 **然后填入所需的金币(0为不消耗)**
 
-****![](<../.gitbook/assets/image (8).png>)****
+****![](<../.gitbook/assets/image (8) (1).png>)****
 
 **填入所需点券(0为不消耗)**
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 **输入消耗物品的名称及其数量(none为不消耗)**
 
@@ -145,7 +145,7 @@ coverY: 0
 
 **需要的权限即为玩家名=十七哥哥**
 
-****![](<../.gitbook/assets/image (5).png>)****
+****![](<../.gitbook/assets/image (5) (1).png>)****
 
 **若玩家名≠十七哥哥，就不能购买商品ss**
 

@@ -30,7 +30,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (8) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png>)
 
@@ -109,9 +109,9 @@ YmlDataPath: ""\[文件路径]
 在Skill文件内放入你写好的技能
 {% endhint %}
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (1).png>)
 
-![](<../.gitbook/assets/image (18) (1).png>)
+![](<../.gitbook/assets/image (18) (1) (1).png>)
 
 {% hint style="info" %}
 **2.**接着打开class文件

@@ -12,6 +12,14 @@ coverY: 0
 
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
+锻造图纸预览GUI：
+
+![](<../.gitbook/assets/image (9).png>)
+
+龙之锻造玩家锻造GUI
+
+
+
 ## 2.插件展示
 
 ## 3.插件命令 <a href="#3.-cha-jian-ming-ling" id="3.-cha-jian-ming-ling"></a>

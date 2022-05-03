@@ -54,7 +54,7 @@ description: RPG服务器必备神器，此插件为BQ提供玩家可视化界�
 
 **1.正确运行插件方式**
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
 {% hint style="info" %}
 1.在售后群内下载最新版龙之任务视图安装包,BetonQuest1.10基础依赖
@@ -170,7 +170,7 @@ questType: "主线" #此节点用来给任务做出分类
 
 ****![](<../.gitbook/assets/image (24) (1).png>)****
 
-****![](<../.gitbook/assets/image (5) (1).png>)****
+****![](<../.gitbook/assets/image (5) (1) (1).png>)****
 
 **如果想要创建一个新的任务分类**
 
@@ -398,11 +398,11 @@ text: 抱歉我得先走了。
 
 此任务是要击杀5个MM怪，在MM文件mobs文件怪物ID是低级僵尸
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 击杀完毕后返回NPC所在地，对话完成任务即可
 
-![](<../.gitbook/assets/image (8) (1).png>)
+![](<../.gitbook/assets/image (8) (1) (1).png>)
 
 ### 4.4 示例配置项下载
 

@@ -32,7 +32,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ## 3.插件命令
 

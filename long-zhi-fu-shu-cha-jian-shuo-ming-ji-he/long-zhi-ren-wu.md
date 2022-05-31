@@ -202,7 +202,7 @@ questType: "主线" #此节点用来给任务做出分类
 首先创建一个击杀僵尸的任务
 {% endhint %}
 
-​![](<../.gitbook/assets/image (3).png>)
+​![](<../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="info" %}
 接着更改配置文件的节点

@@ -24,7 +24,7 @@
 * [龙之五福](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-wu-fu/README.md)
 * [龙之拾取](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-shi-qu.md)
 * [龙之套装](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-tao-zhuang.md)
-* [龙之植物](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-zhi-wu.md)
+* [龙之采种](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-cai-zhong.md)
 * [龙之药水](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-yao-shui.md)
 * [龙之椅子系统](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-yi-zi-xi-tong.md)
 * [龙之锻造](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-duan-zao.md)

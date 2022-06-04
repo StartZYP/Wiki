@@ -47,7 +47,7 @@ coverY: 0
 
 ### 4.1 正确运行插件方式
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 **1.在售后群内下载最新版龙之商店压缩包**
 
@@ -91,13 +91,13 @@ coverY: 0
 
 &#x20;  **多个物品:火药##1\<and>南瓜##1(多个物品之间用\<and>连接)**
 
-****![](<../.gitbook/assets/image (15).png>)****
+****![](<../.gitbook/assets/image (15) (1).png>)****
 
 **输入写在Limit.yml文件内的脚本(注:脚本不存在或填none都不会进行限制)**
 
 **输入脚本名或输入none**
 
-****![](<../.gitbook/assets/image (26) (1).png>)****
+****![](<../.gitbook/assets/image (26) (1) (1).png>)****
 
 **buy为出售，即玩家花钱购买**
 
@@ -113,7 +113,7 @@ coverY: 0
 
 **找到DragonSystemShop\Goods里对应的yml文件，双击打开**
 
-****![](<../.gitbook/assets/image (25) (1).png>)****
+****![](<../.gitbook/assets/image (25) (1) (1).png>)****
 
 **找到isbuy这行，当他为true时，商品为出售，当他为false时，商品即为收购**
 
@@ -145,7 +145,7 @@ coverY: 0
 
 **需要的权限即为玩家名=十七哥哥**
 
-****![](<../.gitbook/assets/image (5) (1).png>)****
+****![](<../.gitbook/assets/image (5) (1) (1).png>)****
 
 **若玩家名≠十七哥哥，就不能购买商品ss**
 

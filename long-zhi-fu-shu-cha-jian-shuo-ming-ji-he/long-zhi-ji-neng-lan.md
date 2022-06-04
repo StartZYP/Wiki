@@ -109,7 +109,7 @@ YmlDataPath: ""\[文件路径]
 在Skill文件内放入你写好的技能
 {% endhint %}
 
-![](<../.gitbook/assets/image (16) (1) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (18) (1) (1).png>)
 
@@ -147,7 +147,7 @@ Type: "爆发"
 
 此项对应skillapi技能的Type
 
-![](<../.gitbook/assets/image (14) (1) (1).png>)
+![](<../.gitbook/assets/image (14) (1) (1) (1).png>)
 
 一定要保持一致，不然将会加载不出技能
 
@@ -179,7 +179,7 @@ Type: "爆发"
 
 2\. 找到你要配置的技能
 
-![](<../.gitbook/assets/image (15) (1) (1).png>)
+![](<../.gitbook/assets/image (15) (1) (1) (1).png>)
 
 needItemName: "\&c\&l利刃环绕技能书" \[需要的物品name]
 

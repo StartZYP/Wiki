@@ -132,7 +132,7 @@ text: 啊对对对
 右键即可开启对话框
 {% endhint %}
 
-![](<../.gitbook/assets/image (15) (1).png>)
+![](<../.gitbook/assets/image (15) (1) (1).png>)
 
 {% hint style="info" %}
 1\. 对话框的配置文件在\[DragonQuestView>Cornv>default.yml]
@@ -170,7 +170,7 @@ questType: "主线" #此节点用来给任务做出分类
 
 ****![](<../.gitbook/assets/image (24) (1).png>)****
 
-****![](<../.gitbook/assets/image (5) (1) (1).png>)****
+****![](<../.gitbook/assets/image (5) (1) (1) (1).png>)****
 
 **如果想要创建一个新的任务分类**
 
@@ -188,7 +188,7 @@ questType: "主线" #此节点用来给任务做出分类
 
 **接着把\[QuestConfig.yml]文件内的配置和此界面对接**
 
-****![](<../.gitbook/assets/image (25) (1) (1).png>)****
+****![](<../.gitbook/assets/image (25) (1) (1) (1).png>)****
 
 这样新的分类就已经添加完毕了
 
@@ -398,7 +398,7 @@ text: 抱歉我得先走了。
 
 此任务是要击杀5个MM怪，在MM文件mobs文件怪物ID是低级僵尸
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (1).png>)
 
 击杀完毕后返回NPC所在地，对话完成任务即可
 

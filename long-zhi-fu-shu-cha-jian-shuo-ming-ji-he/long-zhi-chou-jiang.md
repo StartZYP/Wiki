@@ -24,9 +24,9 @@ description: 七种抽奖模式，大大增加游戏中氪金成分，RPG服务�
 
 ## 2.插件展示
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 #### ![](<../.gitbook/assets/image (10).png>)
 

@@ -37,6 +37,8 @@ coverY: 0
 
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
+![](../.gitbook/assets/7\_@BEB3R]W8NBX%YOQFRT3Y.jpg)
+
 ![](<../.gitbook/assets/image (26).png>)
 
 ![](<../.gitbook/assets/image (14).png>)

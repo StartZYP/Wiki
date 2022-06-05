@@ -177,5 +177,7 @@ GlobalLoreKey:
 
 3.手持这个种子对wg区域内右键就可以种植了。切记 爆裂花一定要存在于 采种实体文件夹中yml
 
-## 5.配置项
+## 5.视频教程
+
+[https://www.bilibili.com/video/BV13a41177hZ](https://www.bilibili.com/video/BV13a41177hZ)
 

@@ -25,6 +25,8 @@ coverY: 0
 
 5.套装特效，支持每种套装自定义图片特效加持,动画加持
 
+B站视频教程: [https://www.bilibili.com/video/BV1er4y1M7oG/](https://www.bilibili.com/video/BV1er4y1M7oG/)
+
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
 ![](<../.gitbook/assets/image (18).png>)

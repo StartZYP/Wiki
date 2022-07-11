@@ -168,9 +168,9 @@ questType: "主线" #此节点用来给任务做出分类
 
 **这里的\[主线]需要对应\[Guis>defaultgui.yml]配置文件的Type"主线"**
 
-****![](<../.gitbook/assets/image (24) (1).png>)****
+![](<../.gitbook/assets/image (24) (1).png>)
 
-****![](<../.gitbook/assets/image (5) (1) (1) (1).png>)****
+![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 **如果想要创建一个新的任务分类**
 
@@ -188,7 +188,7 @@ questType: "主线" #此节点用来给任务做出分类
 
 **接着把\[QuestConfig.yml]文件内的配置和此界面对接**
 
-****![](<../.gitbook/assets/image (25) (1) (1) (1).png>)****
+![](<../.gitbook/assets/image (25) (1) (1) (1).png>)
 
 这样新的分类就已经添加完毕了
 
@@ -202,7 +202,9 @@ questType: "主线" #此节点用来给任务做出分类
 首先创建一个击杀僵尸的任务
 {% endhint %}
 
-​![](<../.gitbook/assets/image (3) (1).png>)
+​
+
+![](<../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="info" %}
 接着更改配置文件的节点

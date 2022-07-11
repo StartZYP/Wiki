@@ -11,6 +11,7 @@
 * [龙之坐骑](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-zuo-qi.md)
 * [龙之旅行](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-lv-hang.md)
 * [龙之押镖](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-ya-biao.md)
+* [龙之抽奖百宝箱](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-chou-jiang-bai-bao-xiang.md)
 * [龙之抽奖](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-chou-jiang.md)
 * [龙之战令](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-zhan-ling.md)
 * [龙之称号](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-cheng-hao.md)

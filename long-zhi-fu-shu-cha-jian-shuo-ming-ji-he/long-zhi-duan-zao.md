@@ -8,6 +8,10 @@ coverY: 0
 
 ## 1.插件介绍 <a href="#1.-cha-jian-jie-shao" id="1.-cha-jian-jie-shao"></a>
 
+先用这个老教程
+
+[https://TABclass.coding.net/s/df1510bb-0d52-4dab-b28e-6a42270b1770](https://tabclass.coding.net/s/df1510bb-0d52-4dab-b28e-6a42270b1770)
+
 ## 1.插件简介
 
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>

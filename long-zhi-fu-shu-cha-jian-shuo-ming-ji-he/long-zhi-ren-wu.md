@@ -396,7 +396,7 @@ text: 抱歉我得先走了。
 
 任务就会更新进GUI界面
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (2).png>)
 
 此任务是要击杀5个MM怪，在MM文件mobs文件怪物ID是低级僵尸
 

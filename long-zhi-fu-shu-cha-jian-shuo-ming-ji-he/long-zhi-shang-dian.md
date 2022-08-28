@@ -141,7 +141,7 @@ coverY: 0
 
 **js后面加Limit.yml内的配置(即为红框框住的内容)，无则为none**
 
-****![](<../.gitbook/assets/image (6).png>)****
+****![](<../.gitbook/assets/image (6) (2).png>)****
 
 **需要的权限即为玩家名=十七哥哥**
 

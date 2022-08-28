@@ -38,7 +38,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 ## 3.插件命令
 

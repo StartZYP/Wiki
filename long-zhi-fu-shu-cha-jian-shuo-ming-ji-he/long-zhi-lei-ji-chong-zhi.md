@@ -22,6 +22,8 @@ description: 适合配合充值点券等一些插件进行兑换礼包操作，R
 
 ## 2.插件展示
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
@@ -61,7 +63,7 @@ DragonTotalAward 进这个文件夹
 
 配置下方
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 此处配置100 为所需积分点
 

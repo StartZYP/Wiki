@@ -35,13 +35,24 @@ coverY: 0
 
 ## 3.插件命令 <a href="#3.-cha-jian-ming-ling" id="3.-cha-jian-ming-ling"></a>
 
-
-
-
-
-
+```
+/DragonBroadCast|dbc Send [喇叭名称] [所说的话] &7- &c【仅Op使用】可跨服全服喇叭
+/DragonBroadCast|dbc reload &7- &c重载龙之喇叭
+```
 
 ## 4.使用说明
+
+1.贴图丢进客户端龙核目录
+
+2.插件丢进plugin填写config.yml中的code
+
+3.启动插件,仔细查看config.yml
+
+4.进游戏手持任意物品 输入/lore add 喇叭 这个为了匹配key 喇叭
+
+5.在/lore add 小喇叭 这个是为了匹配 config.yml中喇叭的Name字段 叫小喇叭
+
+6.右键即可释放出喇叭对应的界面，编辑好发送即可。
 
 
 

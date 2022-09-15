@@ -12,7 +12,7 @@ description: 类似于王者荣耀的抽奖机制，支持保底，支持连抽�
 
 ## 1.插件简介 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
-1.支持插件自带物品库，支持MM物品导入。
+1.支持插件自带物品库，支持MM物品导入，支持命令模式
 
 2.支持单抽与十连抽，支持抽奖几率分配与界面显示。
 
@@ -26,7 +26,9 @@ description: 类似于王者荣耀的抽奖机制，支持保底，支持连抽�
 
 ## 2.插件展示
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## 3.插件命令
 
@@ -44,6 +46,24 @@ description: 类似于王者荣耀的抽奖机制，支持保底，支持连抽�
 ```
 
 ## 4.使用说明
+
+1.拿到插件贴图丢进客户端
+
+2.将插件丢进plugin后在config.yaml填激活码。
+
+3.激活成功后进服。输入/dtb help 查看帮助
+
+4.再输入/dtb open 打开抽奖界面
+
+5.config.yml中可选mysql与文件存储默认文件存储
+
+6.在游戏中输入/dtb list 可以查看并且拿去物品
+
+7.手持物品输入/dtb add xxx 可以加入物品库配置到宝箱的配置界面
+
+8\. 不用物品库可以用mm物品 将config.yaml 中OnlyMMItemModel 改成true就为mm物品了
+
+9.抽奖支持 命令形式 可以查看宝箱中的介绍
 
 
 

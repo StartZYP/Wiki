@@ -42,7 +42,7 @@ coverY: 0
 
 ## 4.使用说明
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (2).png>)
 
 1.拿到插件丢进plugin目录中运行，生成配置项，填写激活码。看到验证成功后。
 

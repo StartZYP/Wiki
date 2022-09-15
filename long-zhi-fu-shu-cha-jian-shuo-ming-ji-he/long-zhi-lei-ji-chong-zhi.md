@@ -26,7 +26,7 @@ description: 适合配合充值点券等一些插件进行兑换礼包操作，R
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +55,7 @@ DragonCore 中是贴图文件 把这个放进客户端
 
 DragonTotalAward 进这个文件夹
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 填写激活码后等待验证通过
 

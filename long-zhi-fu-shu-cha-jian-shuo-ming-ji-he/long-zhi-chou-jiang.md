@@ -32,7 +32,7 @@ description: 七种抽奖模式，大大增加游戏中氪金成分，RPG服务�
 
 #### ![](<../.gitbook/assets/image (4) (2).png>)
 
-#### ![](<../.gitbook/assets/image (28) (1).png>)
+#### ![](<../.gitbook/assets/image (28) (1) (1).png>)
 
 ## 3.插件指令
 

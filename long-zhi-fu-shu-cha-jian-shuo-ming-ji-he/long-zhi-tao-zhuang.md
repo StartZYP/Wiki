@@ -29,7 +29,7 @@ B站视频教程: [https://www.bilibili.com/video/BV1er4y1M7oG/](https://www.bil
 
 ## 2.插件展示 <a href="#2.-cha-jian-zhan-shi" id="2.-cha-jian-zhan-shi"></a>
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (2).png>)
 
 ![](../.gitbook/assets/9TW\({\[NFE5YTVE9FM\[AN1\[K.png)
 
@@ -37,7 +37,7 @@ B站视频教程: [https://www.bilibili.com/video/BV1er4y1M7oG/](https://www.bil
 
 ![](../.gitbook/assets/$\(OR\_X5O2X5BO0UW5}64$HC.jpg)
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 
 ## 3.插件命令 <a href="#3.-cha-jian-ming-ling" id="3.-cha-jian-ming-ling"></a>
 

@@ -71,7 +71,7 @@ coverY: 0
 
 4.插件丢进plugin中
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 5.进入config.yml填写激活码.
 

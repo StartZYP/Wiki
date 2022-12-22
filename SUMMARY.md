@@ -29,6 +29,6 @@
 * [进服公告](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/jin-fu-gong-gao.md)
 * [龙之五福](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-wu-fu/README.md)
 * [聊天与表情包](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/liao-tian-yu-biao-qing-bao.md)
-* [龙之椅子系统](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-yi-zi-xi-tong.md)
+* [龙之区域声音](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-qu-yu-sheng-yin.md)
 * [龙之锻造](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-duan-zao.md)
 * [龙之分解](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-fen-jie.md)

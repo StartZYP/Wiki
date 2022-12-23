@@ -14,6 +14,8 @@
 * [龙之累计充值](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-lei-ji-chong-zhi.md)
 * [龙之抽奖百宝箱](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-chou-jiang-bai-bao-xiang.md)
 * [龙之旅行](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-lv-hang.md)
+* [龙之兑换商城](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-dui-huan-shang-cheng.md)
+* [龙之药水](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-yao-shui.md)
 * [龙之押镖](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-ya-biao.md)
 * [龙之伤害](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-shang-hai.md)
 * [龙之魂环](long-zhi-fu-shu-cha-jian-shuo-ming-ji-he/long-zhi-hun-huan.md)

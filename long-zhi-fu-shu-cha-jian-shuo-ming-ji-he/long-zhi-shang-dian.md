@@ -125,7 +125,7 @@ coverY: 0
 
 **eco为消耗|获得的金币数(不消耗|获得即为0)**
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (2).png>)
 
 **points为消耗|获得的点券数(不消耗|获得即为0)**
 

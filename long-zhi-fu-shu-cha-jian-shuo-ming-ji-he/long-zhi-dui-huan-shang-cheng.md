@@ -10,7 +10,7 @@ description: 一比一仿照失落世界的兑换商城,简单配置,使用方�
 
 ## 2.插件展示
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 ## 3.插件命令
 
